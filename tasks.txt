@@ -1,8 +1,2 @@
-MVC FAMEWORK
-signup
-login
-crud
 
-classes:
-router/App class
-autoload class
+tqpozbzmuamcvzwt
